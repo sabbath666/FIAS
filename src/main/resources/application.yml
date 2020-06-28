@@ -1,0 +1,6 @@
+spring:
+  elasticsearch:
+    rest:
+      uris: http://localhost:9200
+#  batch:
+#    initialize-schema: never
